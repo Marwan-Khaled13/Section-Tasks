@@ -1,4 +1,3 @@
-## student_monnitoring_data.csv --> Exploratory_Data_Analysis_Student.ipynb
 ## student_habits_performance_cleaned.csv --> Section task of me.py
 ## cleaned_titanic_data.csv --> Section task of my friend i did for him.py
 
