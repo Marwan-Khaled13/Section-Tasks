@@ -1,6 +1,6 @@
 ## student_monnitoring_data.csv --> Exploratory_Data_Analysis_Student.ipynb
 ## student_habits_performance_cleaned.csv --> Section task of me.py
-## Titanic-Dataset-Cleaned.csv --> Section task of my friend i did for him.py
+## cleaned_titanic_data.csv --> Section task of my friend i did for him.py
 
 ## cleaned_student_data.csv --> Assignment_1_Machine_learning.ipynb
 https://colab.research.google.com/drive/1elu4pYQZ5vQtQy-xRb88A0Hce1o3g8QN?usp=sharing
